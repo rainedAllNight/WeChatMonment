@@ -1,7 +1,7 @@
 # WeChatMonment
-### A simple demo for wechat monment and a  interview project for thoughtworks
+## A simple demo for wechat monment and a  interview project for thoughtworks
 
-#### Completed
+### Completed
 
 * Pull Refresh like Wechat
 * Tweet photo layout (AutoLayout)
